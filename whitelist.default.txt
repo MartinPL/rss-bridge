@@ -3,6 +3,7 @@ Cryptome
 DansTonChat
 DuckDuckGo
 Facebook
+FB2
 Flickr
 GoogleSearch
 Identica
